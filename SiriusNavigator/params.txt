@@ -1,0 +1,4 @@
+User_Name=guest
+Password=guest
+Database=sirius_db
+DriverID=MySQL
